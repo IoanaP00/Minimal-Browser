@@ -1,11 +1,8 @@
 # Minimal-Browser
 
-	Pentru rezolvarea problemei am folosit o lista de tab-uri deschise(tabs), tab-ul 
-curent(tab_curent), o coada de istoric(h) si una de downloads(dl).
+	Pentru rezolvarea problemei am folosit o lista de tab-uri deschise(tabs), tab-ul curent(tab_curent), o coada de istoric(h) si una de downloads(dl).
 
-	Pentru cozi si stive am folosit structurile generice si funtiile de 
-initializare si de introducere/eliminare de elemente din fiecare structura 
-de la curs.
+	Pentru cozi si stive am folosit structurile generice si funtiile de initializare si de introducere/eliminare de elemente din fiecare structura de la curs.
 
 	Functii cerinta:
 
